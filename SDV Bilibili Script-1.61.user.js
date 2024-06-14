@@ -5,6 +5,7 @@
 // @version         1.0
 // @description     UserScript port of Underscore's Bilibili SDV Retiming Script
 // @downloadURL     https://github.com/Ryah/bilibili-retimer-helper/raw/main/SDV%20Bilibili%20Script-1.61.user.js
+// @updateURL       https://github.com/Ryah/bilibili-retimer-helper/raw/main/SDV%20Bilibili%20Script-1.61.user.js
 // @author          Ryah
 // ==/UserScript==
 
