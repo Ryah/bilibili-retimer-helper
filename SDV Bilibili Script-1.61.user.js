@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name            SDV Bilibili Script
-// @namespace       http://adamedia.cc/
+// @namespace       http://github.com/Ryah/
 // @match           https://www.bilibili.com/video/*
 // @version         1.0
 // @description     UserScript port of Underscore's Bilibili SDV Retiming Script
